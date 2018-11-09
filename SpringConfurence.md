@@ -25,6 +25,7 @@
 - [Knative: Serving your Serverless Services // slidr.io](https://slidr.io/kameshsampath/knative-serving-your-serverless-services#1)
 - [mkheck/FSR: Meta repository for Full Stack Reactive talk (Java, Kotlin, R2DBC, eieio, & anything that may be useful & relevant)!](https://github.com/mkheck/FSR)
 - [業務で使いたいWebFluxによるReactiveプログラミング / Introduction to Reactive Programming using Spring WebFlux - Speaker Deck](https://speakerdeck.com/shintanimoto/introduction-to-reactive-programming-using-spring-webflux)
+- [Serverless with Spring Cloud Function, Knative and riff #SpringOneTou…](https://www.slideshare.net/makingx/serverless-with-spring-cloud-function-knative-and-riff-springonetour-s1t)
 
 ## memo
 - SpringはなんかKotlin推してる
